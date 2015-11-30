@@ -1,1 +1,2 @@
 test of text being added.
+confirming that the folder and file are in github and that I'm being able to make changes through the github website(host).
